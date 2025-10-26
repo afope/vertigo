@@ -48,7 +48,7 @@ function setup() {
   //color c = color(rand, 60);
   //pixels[i] = c;
 
-  updatePixels();
+  // updatePixels();
 }
 
 function draw() {
